@@ -6,4 +6,4 @@ Q2, and Q3 are answered using markdown latex format in the ipynb.
 
 
 Required lib:
-pandas, numpy, matplotlib, matplotlib
+pandas, numpy, tqdm, pickle
